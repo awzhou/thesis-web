@@ -76,6 +76,7 @@
   font-weight: bold;
   position: fixed;
   top: 0px;
+  overflow: hidden;
 }
 
 .alegreya {font-family: 'Alegreya', serif;}
