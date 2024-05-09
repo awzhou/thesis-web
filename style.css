@@ -62,11 +62,13 @@
 
 .maintext {
   font-family: 'Figtree', sans-serif;
+  position: relative;
 }
 
 .heading {
   font-family: 'Alegreya', serif;
   font-weight: bold;
+  position: relative;
 }
 
 .title {
