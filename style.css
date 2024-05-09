@@ -2,7 +2,7 @@
   background-color: #333;
   overflow: hidden;
   position: fixed;
-  top: 50px;
+  top: 30px;
   width: 100%;
   font-family: 'Figtree', sans-serif;
 }
@@ -49,6 +49,10 @@
 
 #myBtn:hover {
     background-color: lime; /* Add a dark-grey background on hover */
+}
+
+.main {
+  margin-top: 50px;
 }
 
 .maintext {
