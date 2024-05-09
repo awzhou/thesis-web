@@ -17,7 +17,8 @@
     background-color: lime; /* Add a dark-grey background on hover */
 }
 
-.title {font-family: 'Alegreya', serif;}
+.title {font-family: 'Alegreya', serif;
+       font-weight: bold;}
 
 .alegreya {font-family: 'Alegreya', serif;}
 
