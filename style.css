@@ -10,6 +10,7 @@
 
 .navbar ul {
   list-style-type: none;
+  height: 0px;
 }
 
 /* Style the links inside the navigation bar */
