@@ -5,11 +5,11 @@
   top: 70px;
   width: 100%;
   font-family: 'Figtree', sans-serif;
-  border-bottom: thick #ff6700;
 }
 
 .navbar ul {
   list-style-type: none;
+  border-bottom: thick #ff6700;
 }
 
 /* Style the links inside the navigation bar */
