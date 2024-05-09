@@ -1,8 +1,8 @@
 .navbar {
+  display: block;
   background-color: #333;
   overflow: hidden;
   position: fixed;
-  top: 70px;
   width: 100%;
   font-family: 'Figtree', sans-serif;
   border-bottom: thick solid #ff6700;
@@ -54,7 +54,7 @@
 }
 
 .main {
-  margin-top: 150px;
+  
 }
 
 .maintext {
@@ -67,6 +67,7 @@
 }
 
 .title {
+  display: block;
   font-family: 'Alegreya', serif;
   font-weight: bold;
   position: fixed;
