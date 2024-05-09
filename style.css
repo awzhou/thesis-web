@@ -3,6 +3,10 @@
   overflow: hidden;
 }
 
+.navbar ul {
+  list-style-type: none;
+}
+
 /* Style the links inside the navigation bar */
 .navbar a {
   float: left;
@@ -42,6 +46,10 @@
 
 #myBtn:hover {
     background-color: lime; /* Add a dark-grey background on hover */
+}
+
+.maintext {
+  font-family: 'Figtree', sans-serif;
 }
 
 .title {font-family: 'Alegreya', serif;
