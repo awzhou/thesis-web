@@ -5,10 +5,10 @@
         flex-wrap: wrap;
   background-color: #333;
   overflow: hidden;
-  position: sticky;
   width: 100%;
   font-family: 'Figtree', sans-serif;
   border-bottom: thick solid #ff6700;
+  position: relative;
 }
 
 .navbar ul {
@@ -74,8 +74,7 @@
 .title {
   font-family: 'Alegreya', serif;
   font-weight: bold;
-  position: fixed;
-  top: 0px;
+  position: relative;
   overflow: hidden;
 }
 
