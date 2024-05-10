@@ -110,6 +110,7 @@ footer {
     font-family:'Figtree';
     margin: 0;
     background-color: #333;
+    border-top: thick solid #ff6700;
 }
 
 .footer-content {
