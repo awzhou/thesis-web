@@ -3,7 +3,6 @@
   overflow: hidden;
   width: 100%;
   font-family: 'Figtree', sans-serif;
-  border-bottom: thick solid #333;
   position: relative;
 }
 
@@ -20,6 +19,7 @@
   text-align: center;
   padding: 8px;
   text-decoration: none;
+  border-bottom: thick solid #333;
 }
 
 /* Change the color of links on hover */
