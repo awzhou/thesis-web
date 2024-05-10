@@ -87,6 +87,10 @@
     height: 8px;
 }
 
+body {
+  margin: 0;
+}
+
 .alegreya {font-family: 'Alegreya', serif;}
 
 .courier {font-family: 'Courier', serif;}
