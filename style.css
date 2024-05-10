@@ -105,29 +105,24 @@ body {
 
 @media (min-width: 880px) {
     .footer {
-        position: absolute;
-        bottom: 0;
-        width: 100%;
         height: 200px;
-        font-family:'Figtree';
-        margin: 0;
-        background-color: #333;
-        border-top: thick solid #ff6700;
     }
 }
 
 @media (max-width: 880px) {
     .footer {
-        position: absolute;
-      bottom: 0;
-      width: 100%;
       height: 250px;
-      font-family:'Figtree';
-      margin: 0;
-      background-color: #333;
-      border-top: thick solid #ff6700;
     }
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-family:'Figtree';
+  margin: 0;
+  background-color: #333;
+  border-top: thick solid #ff6700;
 
 .footer-content {
     display: flex;
