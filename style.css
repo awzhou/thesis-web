@@ -25,7 +25,7 @@
 .navbar a:hover {
   /*background-color: #ddd;*/
   border-bottom: thick solid #ff6700;
-  color: black;
+  color: white;
 }
 
 /* Add a color to the active/current link */
