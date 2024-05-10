@@ -93,6 +93,33 @@ body {
   margin: 0;
 }
 
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 130px;
+}
+
+
+.footer-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+.rest-of-footer {
+    flex-grow: 1;
+}
+
+.footer-notes {
+    margin-top: -15px;
+}
+
+.footer-notes p {
+    text-align: center;
+}
+
 .alegreya {font-family: 'Alegreya', serif;}
 
 .courier {font-family: 'Courier', serif;}
