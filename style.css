@@ -94,8 +94,8 @@ body {
 }
 
 .bottom-logo {
-  width: 15%;
-  min-width: 50px;
+  width: 10%;
+  min-width: 40px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -109,6 +109,8 @@ footer {
     width: 100%;
     height: 130px;
     font-family:'Figtree';
+    margin: 0;
+    background-color: #333;
 }
 
 .footer-content {
@@ -128,6 +130,7 @@ footer {
 
 .footer-notes p {
     text-align: center;
+    color: #f2f2f2;
 }
 
 .alegreya {font-family: 'Alegreya', serif;}
