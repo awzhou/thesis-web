@@ -23,13 +23,15 @@
 
 /* Change the color of links on hover */
 .navbar a:hover {
-  background-color: #ddd;
+  /*background-color: #ddd;*/
+  border-bottom: thick solid #ff6700;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .navbar a.active {
-  background-color: #999;
+  /*background-color: #999;*/
+  border-bottom: thick solid #ff6700;
   color: white;
 }
 
